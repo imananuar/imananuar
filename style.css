@@ -359,8 +359,8 @@ ul.social-buttons li a {
   }
 
   .nav-custom{
-    border: 1px solid #333;
-    background-color: #333;
+    border: 1px solid #333 !important;
+    background-color: #333 !important;
     margin-top: 10px;
     margin-left: 0;
     margin-right: 0;
