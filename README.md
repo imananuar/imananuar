@@ -1,1 +1,1 @@
-My first ever website creating from scratch!
+Somehow I managed to be a Software Developer :)
